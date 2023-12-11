@@ -1,7 +1,3 @@
 #!/bin/bash
 cat << EOF > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 Best School
-
-EOF
-
-echo "File created successfully!"
