@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n "(Ôo)" >&2
+echo -n "(Ôo)" > confused_smiley.txt
