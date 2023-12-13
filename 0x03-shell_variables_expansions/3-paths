@@ -1,2 +1,2 @@
 #!/bin/bash
-path_dirs=$(tr ':' '\n' <<< "$PATH" | grep -c '^/')
+path_dirs_count=$(tr ':' '\n' <<< "$PATH" | grep -c '^/')
