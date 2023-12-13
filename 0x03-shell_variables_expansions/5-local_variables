@@ -1,2 +1,2 @@
 #!/bin/bash
-diff
+diff set.sorted printenv.sorted | grep "<" | awk '«{ impression $ 2 }»'
